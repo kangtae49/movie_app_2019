@@ -78,10 +78,10 @@ npm i gh-pages
 ```
 
 ```
-npm run build
+npm run deploy
 ```
 
-https://kangtae49.github.com/movie_app_2019
+https://kangtae49.github.io/movie_app_2019/
 
 
 
