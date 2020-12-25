@@ -84,7 +84,11 @@ npm run deploy
 https://kangtae49.github.io/movie_app_2019/
 
 
-
+router
+---
+```
+npm i react-router-dom
+```
 
 vs shortcut
 ---
