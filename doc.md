@@ -26,3 +26,20 @@ git
 ```
 $ git init
 ```
+https://github.com/new
+Repository name : movie_app_2019
+
+Create repository
+
+```
+git remote add origin https://github.com/kangtae49/movie_app_2019.git
+git add .
+git commit -m "init"
+git push origin master
+```
+
+props validate
+---
+```
+npm i prop-types
+```
