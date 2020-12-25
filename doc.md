@@ -57,8 +57,31 @@ https://yts.lt
 https://yts-proxy.now.sh/list_movies.json
 
 
+cloud upload
+---
+```
+npm i gh-pages
+```
+``` json
+# package.json
+{
+    ...
+    "scripts": {
+       ...
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
+    },
+    ...
+    "homepage": "https://kangtae49.github.io/movie_app_2019"
+    ...
+}
+```
 
+```
+npm run build
+```
 
+https://kangtae49.github.com/movie_app_2019
 
 
 
